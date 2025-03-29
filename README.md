@@ -1,6 +1,6 @@
-# Experience at Web3 Organisation (2022–2025)
+# Experience at a Web3 Startup (2022–2025)
 
-I spent nearly three years at Itheum, contributing across multiple functions to help shape the platform’s vision of enabling data ownership, decentralized governance, and innovative blockchain solutions. My work included Quality Assurance (QA), Product Management, DAO Setup, and Strategic Planning, spanning both technical and non-technical responsibilities.
+I spent nearly three years at a Web3-focused company, contributing across multiple functions to help shape the platform’s vision of enabling data ownership, decentralized governance, and innovative blockchain solutions. My work included Quality Assurance (QA), Product Management, DAO Setup, and Strategic Planning, spanning both technical and non-technical responsibilities.
 
 1. Quality Assurance (QA)
 Performed manual QA for all product releases, verifying that features met functional requirements and quality standards.
@@ -12,7 +12,7 @@ Collaborated closely with development teams to identify and resolve defects prio
 2. Product Management
 Contributed to product scoping and feature introductions, working with cross-functional teams (design, development, marketing) to refine product concepts and roll out new features.
 
-Assisted in product documentation, providing clear, accessible explanations of Itheum’s protocols, features, and upgrades.
+Assisted in product documentation, providing clear, accessible explanations of the protocol, features, and upgrades.
 
 Helped launch and update core products such as Data NFTs, and Staking, focusing on user experience and ease of adoption.
 
