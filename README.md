@@ -1,4 +1,4 @@
-# Experience at Itheum (2022–2025)
+# Experience at Web3 Organisation (2022–2025)
 
 I spent nearly three years at Itheum, contributing across multiple functions to help shape the platform’s vision of enabling data ownership, decentralized governance, and innovative blockchain solutions. My work included Quality Assurance (QA), Product Management, DAO Setup, and Strategic Planning, spanning both technical and non-technical responsibilities.
 
